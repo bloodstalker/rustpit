@@ -1,0 +1,6 @@
+[package]
+name = "pit"
+version = "0.1.0"
+authors = ["bloodstalker <thabogre@gmail.com>"]
+
+[dependencies]
